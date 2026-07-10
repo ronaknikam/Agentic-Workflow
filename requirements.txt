@@ -1,0 +1,10 @@
+opencv-python-headless>=4.9.0
+pytesseract>=0.3.10
+ultralytics>=8.4.0
+numpy>=1.26.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.0.0
+pytest>=8.0.0
+# Optional, only needed for the real Claude API backend (AnthropicLLM):
+# anthropic>=0.40.0

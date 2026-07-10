@@ -1,0 +1,22 @@
+[
+  {
+    "topic": "YOLO",
+    "content": "YOLO (You Only Look Once) is a real-time object detection architecture that predicts bounding boxes and class probabilities directly from full images in a single pass, trading a small amount of accuracy for much faster inference than two-stage detectors."
+  },
+  {
+    "topic": "OCR optical character recognition",
+    "content": "OCR converts images of text into machine-readable text. Modern pipelines typically combine layout/region detection with a recognition model, since running recognition over an undifferentiated full page performs worse than recognizing structured regions separately."
+  },
+  {
+    "topic": "IoU intersection over union",
+    "content": "Intersection over Union (IoU) measures overlap between two bounding boxes as the area of their intersection divided by the area of their union. It's used both to score detector accuracy against ground truth and, in tracking, to match detections to existing tracks frame to frame."
+  },
+  {
+    "topic": "ReAct agent reasoning acting",
+    "content": "ReAct is an agent pattern that interleaves reasoning ('thoughts') with actions (tool calls), using each tool's observation to inform the next reasoning step, rather than planning the entire task upfront in one shot."
+  },
+  {
+    "topic": "RAG retrieval augmented generation",
+    "content": "Retrieval-Augmented Generation retrieves relevant documents or facts from an external knowledge source and provides them as context to a language model at generation time, reducing hallucination on facts outside the model's training data."
+  }
+]
